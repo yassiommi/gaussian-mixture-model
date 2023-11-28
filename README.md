@@ -38,4 +38,5 @@ predicted_labels = gmm.predict(X)
 ```
 
 output:
+![Figure_1](https://github.com/yassiommi/gaussian-mixture-model/assets/46069118/3217e612-dc62-482b-9dfc-0bf6fdba5731)
 
